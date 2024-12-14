@@ -1,0 +1,2 @@
+# SPACEDOS02_ANTARCTICA
+SPACEDOS for Antarctica station
